@@ -1,2 +1,5 @@
 # Kaggle
-Contains my code s of Kaggle problems
+Contains my codes of Kaggle problems
+
+## titanic
+Titanic: Machine Learning from Disaster contest of kaggle
